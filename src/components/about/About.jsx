@@ -16,7 +16,7 @@ export default function About(){
                         <p className="about_description">Hallo! Saya Marthin Riyaldo Solini Kese, Mahasiswa Informatika angkatan 2022 Universitas Multimedia Nusantara. Mempunyai minat dalam 
                         pengembangan web terutama pada bagian Front-end Development. Aktif mencari peluang untuk mengembangkan diri di bidang IT
                         </p>
-                        <a href={CV} download="CV" className="btn">Download CV</a>
+                        <a href={CV} download="CV-WEB-DEVELOPER.pdf" className="btn">Download CV</a>
                     </div>
                     <div className="about_skills grid">
                             <div className="skills_data">
