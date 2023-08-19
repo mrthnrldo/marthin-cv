@@ -2,6 +2,8 @@ import React from "react";
 import "./about.css"
 import About1 from "../assets/marthin2.png"
 import AboutBox from "./AboutBox";
+import CV from "./CV-WEB-DEVELOPER.pdf"
+
 
 export default function About(){
     return(
@@ -14,7 +16,7 @@ export default function About(){
                         <p className="about_description">Hallo! Saya Marthin Riyaldo Solini Kese, Mahasiswa Informatika angkatan 2022 Universitas Multimedia Nusantara. Mempunyai minat dalam 
                         pengembangan web terutama pada bagian Front-end Development. Aktif mencari peluang untuk mengembangkan diri di bidang IT
                         </p>
-                        <a href="www.intagram.com" className="btn">Download CV</a>
+                        <a href={CV} download="CV" className="btn">Download CV</a>
                     </div>
                     <div className="about_skills grid">
                             <div className="skills_data">

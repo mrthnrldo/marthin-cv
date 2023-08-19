@@ -95,6 +95,13 @@
     }
 }
 
+@media screen and (max-width: 500px) {
+    .resume_container {
+        grid-template-columns: 1fr;
+        justify-content: center;
+        row-gap: 1.875rem;
+    }
+}
 @media screen and (max-width: 350px) {
     .resume_container {
         grid-template-columns: 1fr;
