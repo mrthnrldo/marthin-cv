@@ -38,7 +38,7 @@ const ResumeData = [
       category: "experience",
       icon: "icon-briefcase",
       year: "April 2023",
-      title: "Algorithm Tutor",
+      title: "Basic Algorithm Tutor",
       desc: "Menjadi tutor untuk materi dasar Algoritma & Struktur Data seperti array, pointer, File Processing dan sebagainya",
     },
     {
