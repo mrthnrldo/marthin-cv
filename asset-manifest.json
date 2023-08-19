@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/marthin-cv/static/css/main.dcfdfd5b.css",
-    "main.js": "/marthin-cv/static/js/main.b2458bf5.js",
+    "main.css": "/marthin-cv/static/css/main.2ffb1c07.css",
+    "main.js": "/marthin-cv/static/js/main.a238b3e8.js",
     "static/media/marthin2.png": "/marthin-cv/static/media/marthin2.7af52756018db0302da5.png",
     "static/media/marthin.png": "/marthin-cv/static/media/marthin.61b2ddfa42c675e9233f.png",
     "static/media/thebaddestduck.png": "/marthin-cv/static/media/thebaddestduck.586736ef82b6081bde81.png",
     "static/media/porto-lama.png": "/marthin-cv/static/media/porto-lama.24b486cd5c9398a042c0.png",
+    "static/media/CV-WEB-DEVELOPER.pdf": "/marthin-cv/static/media/CV-WEB-DEVELOPER.70b41c67588d97af9153.pdf",
     "static/media/GenshInfo.jpg": "/marthin-cv/static/media/GenshInfo.fc34388a61b240f433da.jpg",
     "static/media/service-1.svg": "/marthin-cv/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
     "static/media/service-3.svg": "/marthin-cv/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
@@ -13,11 +14,11 @@
     "static/media/dots-bg.svg": "/marthin-cv/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "static/media/logoweb.svg": "/marthin-cv/static/media/logoweb.9cca90c7f645e4e5ece5ca50d6f66061.svg",
     "index.html": "/marthin-cv/index.html",
-    "main.dcfdfd5b.css.map": "/marthin-cv/static/css/main.dcfdfd5b.css.map",
-    "main.b2458bf5.js.map": "/marthin-cv/static/js/main.b2458bf5.js.map"
+    "main.2ffb1c07.css.map": "/marthin-cv/static/css/main.2ffb1c07.css.map",
+    "main.a238b3e8.js.map": "/marthin-cv/static/js/main.a238b3e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcfdfd5b.css",
-    "static/js/main.b2458bf5.js"
+    "static/css/main.2ffb1c07.css",
+    "static/js/main.a238b3e8.js"
   ]
 }
