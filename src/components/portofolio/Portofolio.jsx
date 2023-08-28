@@ -32,7 +32,7 @@ export default function Portofolio(){
 
                             <span className="portofolio_category">{category}</span>
                             <h3 className="portofolio_title">{title}</h3>
-                            <a href={link} className="portofolio_button" target="_blank">
+                            <a href={link} className="portofolio_button" target="_blank" rel="noreferrer">
                                 <i className="icon-link portofolio_buttom-item"></i>
                             </a>
                         </div>
