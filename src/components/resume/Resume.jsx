@@ -10,11 +10,11 @@ export default function Resume(){
 
             <div className="resume_container grid">
                 <div className="timeline grid">
-                    {ResumeData.map((val, id)=>{
+                    {ResumeData.map((val)=>{
                         if (val.category === "education") {
                             return(
                                 <Card 
-                                    key={id}
+                                    key={val.id}
                                     icon = {val.icon}
                                     title = {val.title}
                                     year = {val.year}

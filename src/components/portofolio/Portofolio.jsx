@@ -22,7 +22,7 @@ export default function Portofolio(){
             </div>
             <div className="portofolio_container grid">
                 {items.map((item)=>{
-                    const{id,image,title,category, link} = item;
+                    const{id,image,title,category, link_web, link_github} = item;
                     return(
                         <div className="portofolio_card" key={id}>
                             <div className="portofolio_thumbnail">
@@ -32,8 +32,11 @@ export default function Portofolio(){
 
                             <span className="portofolio_category">{category}</span>
                             <h3 className="portofolio_title">{title}</h3>
-                            <a href={link} className="portofolio_button" target="_blank" rel="noreferrer">
+                            <a href={link_web} className="portofolio_button" target="_blank" rel="noreferrer">
                                 <i className="icon-link portofolio_buttom-item"></i>
+                            </a>
+                            <a href={link_github} className="github_button" target="_blank" rel="noreferrer">
+                                <i className="fa-brands fa-github portofolio_buttom-item"></i>
                             </a>
                         </div>
                     )

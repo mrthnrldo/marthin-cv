@@ -88,8 +88,26 @@
     opacity: 0;
 }
 
+.github_button{
+    color: #fff;
+    position: absolute;
+    bottom: 1.5rem;
+    left: 5rem;
+    font-size: var(--h3-font-size);
+    display: block;
+    background-color: #ffd51c;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 42px;
+    transition: .3s;
+    opacity: 0;
+}
 
-.portofolio_card:hover .portofolio_button{
+
+.portofolio_card:hover .github_button, .portofolio_card:hover .portofolio_button{
     opacity: 1;
 
 }

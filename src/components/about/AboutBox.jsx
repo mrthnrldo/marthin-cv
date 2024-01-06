@@ -8,7 +8,7 @@ export default function AboutBox(){
                 <i className="about_icon icon-fire"></i>
 
                 <div>
-                    <h3 className="about_title">3</h3>
+                    <h3 className="about_title">4</h3>
                     <span className="about_subtitle">project completed</span>
                 </div>
             </div>
@@ -17,7 +17,7 @@ export default function AboutBox(){
                 <i className="about_icon icon-people"></i>
 
                 <div>
-                    <h3 className="about_title">2</h3>
+                    <h3 className="about_title">4</h3>
                     <span className="about_subtitle">work in group</span>
                 </div>
             </div>
