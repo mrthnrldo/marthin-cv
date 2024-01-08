@@ -41,8 +41,8 @@ const PortofolioMenu = [
       image: closetwear,
       title: "Projek Website PHP React MySQL",
       category: "UI/UX",
-      link_web: "closetwear.id",
-      link_github: "https://genshinfo.vercel.app/"
+      link_web: "https://www.closetwear.id/",
+      link_github: "https://github.com/Tinosz/closetwear-app"
     }
 
   ];
